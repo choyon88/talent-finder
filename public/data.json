@@ -1,0 +1,180 @@
+[{
+  "_id": "64347f085b21e659c9f0dbb3",
+  "index": 0,
+  "icon": "./Icons/accounts 1.png",
+  "job_amount": 65,
+  "location": "Dhaka, Bangladesh",
+  "company_name": "Google LLC",
+  "job_title": "Technical Database Engineer",
+  "email": "levinecasey@xelegyl.com",
+  "phone": "(899) 513-3653",
+  "experiences": 3,
+  "about": "I am a motivated and results-driven individual with a passion for technology and innovation. With 3 of experience in Computer Science And Engineering, I have developed a strong skill set in Java script,python, Sql, MongoDb etc and am committed to applying these skills to drive success and growth at Google.",
+  "sellary_range": "70k-90k",
+  "company_logo": "https://cdn.mos.cms.futurecdn.net/rjqJEKv6P9Yjy9d3KMGvp8.jpg",
+  "job_time": [{
+    "remote": "Remote",
+    "full_time": " Full Time"
+  }],
+  "job_description": "As a technology company, Google offers a wide range of career opportunities. Jobs range from engineering and software development to marketing, sales, and operations. Successful candidates should demonstrate a strong passion for innovation and collaboration, as well as a desire to make a positive impact on the world through technology.",
+  "job_responsibility": "Google's job responsibilities vary depending on the role, but all employees are expected to contribute to the company's mission of organizing the world's information and making it universally accessible and useful. They should also strive to maintain high ethical standards and foster an inclusive workplace culture.",
+  "educational_requirement": "Bachelor's degree or equivalent practical experience is preferred"
+},
+{
+  "_id": "64347f08db04c7a5613ec152",
+  "index": 1,
+  "job_time": [{
+    "remote": "Remote",
+    "full_time": " Full Time"
+  }],
+  "icon": "./Icons/business 1.png",
+  "location": "Rajshahi, Bangladesh",
+  "job_amount": 73,
+  "company_name": "Netflix",
+
+  "job_title": "Senior Product Designer",
+  "email": "levinecasey@xelegyl.com",
+  "phone": "(923) 580-3906",
+  "experiences": 4,
+  "about": "As a recent graduate with a degree in Film and Media Studies, I am passionate about the entertainment industry and its power to inspire, entertain, and educate audiences. I have experience in content creation, social media management, and video production, and am eager to apply my skills and knowledge to a dynamic company like Netflix. I am a creative thinker, a team player, and a lifelong learner, and I am excited to contribute to the success of the company.",
+  "sellary_range": "50k-70k",
+  "company_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEXYOhtRAo-xoAdIXVnqkKvUGcQ4GosgKSow&usqp=CAU",
+  "job_description": "Netflix job descriptions vary depending on the specific role, but generally emphasize the importance of creativity, innovation, and collaboration. They seek candidates who are passionate about entertainment, have excellent communication and problem-solving skills, and can thrive in a fast-paced environment. Netflix values diversity and inclusion and strives to create a supportive and empowering workplace culture.",
+  "job_responsibility": "Netflix job responsibilities vary depending on the specific role, but may include developing and implementing strategies for content acquisition, creating and executing marketing campaigns, designing and developing software systems, or providing excellent customer service. All roles require a focus on innovation, creativity, and collaboration to contribute to the success of the company.",
+  "educational_requirement": "Marketing, communications, or film and television."
+},
+{
+  "_id": "64347f089efb220246ddbb19",
+  "index": 2,
+  "job_time": [{
+    "remote": "Remote",
+    "full_time": " Full Time"
+  }],
+  "icon": "./Icons/chip 1.png",
+  "job_amount": 100,
+  "company_name": "Tesla",
+  "location": "Khulna, Bangladesh",
+  "job_title": "Software Engineer",
+  "email": "levinecasey@xelegyl.com",
+  "phone": "(954) 583-3374",
+  "experiences": "5",
+  "about": "I am an experienced electrical engineer with a passion for sustainable energy solutions. With a Bachelor's degree in Electrical Engineering from the University of California, I have worked on several projects related to renewable energy and energy storage systems. I am particularly interested in the mission and innovative technology of Tesla and would love to be a part of the team that is transforming the automotive and energy industries. I am a self-motivated and detail-oriented individual who is committed to delivering high-quality results. I look forward to the opportunity to contribute my skills and experience to the Tesla team.",
+  "sellary_range": "80k-90k",
+  "company_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPpvcX9qO-RL0tLmaeVcJq_soNMBs2KvOgGw&usqp=CAU",
+  "job_description": "As a Software Engineer at Tesla, you will be responsible for developing and implementing software systems for Tesla's electric vehicles and energy storage products. You will work with a team of engineers to design and implement software solutions that enhance the performance and functionality of Tesla's products. You will also collaborate with other teams to ensure that software development aligns with Tesla's overall mission and goals. The role requires strong problem-solving skills, proficiency in programming languages, and experience in software development.",
+  "job_responsibility": "Responsibilities may include designing and implementing software systems, debugging and testing software, collaborating with cross-functional teams, and staying up-to-date with industry trends and best practices.",
+  "educational_requirement": "Marketing, communications"
+},
+{
+  "_id": "64347f08ab0e336f2881a26b",
+  "index": 3,
+  "job_time": [{
+    "remote": "Remote",
+    "full_time": " Full Time"
+  }],
+  "icon": "./Icons/social-media 1.png",
+  "job_amount": 200,
+  "company_name": "Airbnb LLC",
+  "sellary_range": "70k-90k",
+  "location": "Chittagong, Bangladesh",
+  "job_title": "Motion Graphic Designer",
+  "email": "levinecasey@xelegyl.com",
+  "phone": "(890) 538-3781",
+  "experiences": 3,
+  "about": "As a Motion Graphic Designer, you will be responsible for creating visually compelling and engaging animations, videos, and graphics to enhance Tesla's marketing and branding efforts. You will work with cross-functional teams to develop creative solutions that align with the company's vision and mission.",
+  "company_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuuQDiQkFOaAd3Okj6elAjHk1rFaDYRY9VlA&usqp=CAU",
+  "job_description": "As a Motion Graphic Designer at Airbnb, you will create visually stunning animations and videos that bring the brand to life across multiple platforms. You will work collaboratively with a team of designers and content creators to deliver high-quality visual content that engages and inspires Airbnb's global community.",
+  "job_responsibility": "As a Motion Graphic Designer at Airbnb, you will be responsible for creating and designing visual content for various digital platforms. You will work with cross-functional teams to develop and execute creative concepts, as well as ensure that all design projects align with Airbnb's brand identity and messaging.",
+  "educational_requirement": "Bachelor's degree or equivalent experience in graphic design"
+},
+{
+  "_id": "64347f08b7ffde319eb0fe4b",
+  "index": 4,
+  "job_time": [{
+    "remote": "Remote",
+    "full_time": " Full Time"
+  }],
+  "icon": "/src/assets/Icons/accounts 1.png",
+  "job_amount": 370,
+  "company_name": "Youtube",
+  "sellary_range": "70k-90k",
+  "job_title": "Content Creator",
+  "location": "Barishal, Bangladesh",
+  "email": "levinecasey@xelegyl.com",
+  "phone": "(957) 493-2550",
+  "experiences": 2,
+  "about": "YouTube Content Creator, your primary responsibility is to create engaging video content for your YouTube channel. You will need to be proficient in video production and editing software, as well as have strong storytelling skills and a clear understanding of your target audience. You will need to develop and execute video content ideas, work with a team to produce videos, and promote your channel and videos across social media platforms. Additional responsibilities may include collaborating with brands or other content creators, analyzing metrics to improve your content, and staying up-to-date with trends and changes in the YouTube platform.",
+  "company_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9eMlshPZ19UAiyD1XLvwLEcDIgYMNLOfP9A&usqp=CAU",
+  "job_description": "As a YouTube Content Creator, you will be responsible for creating and producing video content for YouTube channels. This includes brainstorming ideas, scripting, filming, editing, and publishing videos that align with the channel's brand and audience. You will also need to stay up-to-date with trends and analytics to optimize content performance.",
+  "job_responsibility": "Responsibilities of a YouTube content creator may include creating and producing engaging video content, building and maintaining an audience, optimizing videos for search and discovery, and collaborating with brands and other creators.",
+  "educational_requirement": "Bachelor's degree or equivalent experience in graphic design"
+},
+{
+  "_id": "64347f08ec8654ca0adbc05d",
+  "index": 5,
+  "job_time": [{
+    "remote": "Remote",
+    "full_time": " Full Time"
+  }],
+  "icon": "/src/assets/Icons/business 1.png",
+  "job_amount": 150,
+  "company_name": "Alibaba",
+  "location": "Shylet, Bangladesh",
+
+  "job_title": "Software Engineer",
+  "email": "levinecasey@xelegyl.com",
+  "phone": "(843) 594-3773",
+  "experiences": 3,
+  "about": "Alibaba is a leading Chinese multinational technology company that specializes in e-commerce, retail, internet, and technology. The company offers a range of job opportunities in various fields, including technology, finance, operations, and sales.",
+  "sellary_range": "60k-80k",
+  "company_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThwwm6T7c6JfFbCOzYPU1tbnSs2ACfRKrtLQ&usqp=CAU",
+  "job_description": "Job descriptions at Alibaba vary depending on the specific role, but typically involve responsibilities related to the field, such as developing software, managing finances, overseeing operations, or driving sales growth.",
+  "job_responsibility": "Job responsibilities at Alibaba vary depending on the specific role, but may include developing and implementing business strategies, managing operations and finances, collaborating with teams, and driving innovation and growth.",
+  "educational_requirement": "Marketing, communications"
+},
+{
+  "_id": "64347f082190660b695af7ec",
+  "index": 6,
+  "job_time": [{
+    "remote": "Remote",
+    "full_time": " Full Time"
+  }],
+  "icon": "/src/assets/Icons/chip 1.png",
+  "job_amount": 120,
+  "company_name": "Daraz",
+  "location": "Dhaka, Bangladesh",
+  "job_title": "Product Manager",
+  "email": "levinecasey@xelegyl.com",
+  "phone": "(910) 461-3066",
+  "experiences": 1,
+  "about": "The Daraz Bangladesh Product Manager job circular may include responsibilities such as developing and executing product strategies, conducting market research, and working with cross-functional teams to drive sales and growth on the Daraz e-commerce platform.",
+  "sellary_range": "20k-40k",
+
+  "company_logo": "https://seeklogo.com/images/D/daraz-logo-7E01DFC36D-seeklogo.com.png",
+  "job_description": "As a Product Manager at Daraz.bd, you will be responsible for developing and executing the product strategy, managing the product life cycle, and collaborating with cross-functional teams to meet business objectives.",
+  "job_responsibility": "Responsibilities of a Product Manager at Daraz Bangladesh may include identifying market trends, developing and executing product strategies, collaborating with cross-functional teams, and analyzing product performance to drive growth and profitability.",
+  "educational_requirement": "Bachelor's degree in business administration, marketing"
+},
+{
+  "_id": "64347f08481c769a7c353e26",
+  "index": 7,
+  "job_time": [{
+    "remote": "Remote",
+    "full_time": " Full Time"
+  }],
+  "icon": "./Icons/accounts 1.png",
+  "job_amount": 300,
+  "company_name": "Bashundhara Group",
+  "job_title": "Manager/ AGM (HR & Admin)",
+  "email": "levinecasey@xelegyl.com",
+  "phone": "(864) 468-2062",
+  "experiences": 2,
+  "location": "Natore, Bangladesh",
+  "about": "Bashundhara Group is a leading industrial conglomerate in Bangladesh. Managerial job opportunities are available in various fields, including marketing, operations, finance, human resources, and more. Job responsibilities will vary depending on the specific role.",
+  "sellary_range": "30k-40k",
+  "company_logo": "https://seekvectorlogo.com/wp-content/uploads/2019/12/bashundhara-group-vector-logo.png",
+  "job_description": "Bashundhara Group is a leading Bangladeshi industrial conglomerate with various job opportunities. A manager at Bashundhara Group may be responsible for leading teams, developing strategies, managing operations, and driving growth.",
+  "job_responsibility": "Responsibilities of a manager at Bashundhara Group may include overseeing operations and finances, developing and implementing business strategies, managing teams, and ensuring the company meets its goals and objectives.",
+  "educational_requirement": "Bachelor's or Master's degree in a relevant field"
+}
+]
